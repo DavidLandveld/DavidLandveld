@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DavidLandveld
-- 👀 I’m interested in Finacial programming applications
-- 🌱 I’m currently learning Python 3
-- 💞️ I’m looking to collaborate on Trading APIs
+- 👀 I’m interested in Finacial programming applications related to Data Engineering
 - 📫 Shoot me an email for propositions: davidlandveld@gmail.com
 
 <!---
